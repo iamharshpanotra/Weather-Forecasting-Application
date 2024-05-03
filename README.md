@@ -1,1 +1,1 @@
-# Paint-App
+# Weather Forecasting Application
